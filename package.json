@@ -1,0 +1,24 @@
+{
+  "name": "mi-porfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luchyn/Mi_repositorio_Luis_Alberto_Monllor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luchyn/Mi_repositorio_Luis_Alberto_Monllor/issues"
+  },
+  "homepage": "https://github.com/Luchyn/Mi_repositorio_Luis_Alberto_Monllor#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.16"
+  }
+}
